@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PJORawe
-- 👀 I’m interested in Blockchain usage for the good of the people!
-- 🌱 I’m currently learning anything helpful!
+- 👀 I’m interested in Blockchain Technology usage for the good of the people!
+- 🌱 I’m currently learning anything helpful to do this!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
